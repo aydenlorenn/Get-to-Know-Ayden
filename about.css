@@ -1,0 +1,48 @@
+nav {
+    font-family: monospace;
+    font-weight: bold; 
+    font-size: 30px;
+    color: #FFFFFF;
+    text-align: center;
+    border: dashed;
+    padding: 15px;
+    margin: 100px 300px 100px 300px;
+    background-color: #D230C3;
+    text-transform: uppercase;
+    display: block;
+ }
+ a {
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(252, 164, 233);
+}
+ body {
+    background-image: url(https://media.istockphoto.com/photos/abstract-exhibition-background-with-ultraviolet-neon-lights-glowing-picture-id1298834196?b=1&k=20&m=1298834196&s=612x612&w=0&h=PwS6iDxE9FOQIpuPXKck38QqCwY2g7q53LElZv3m7co=);
+    background-color: #FFFFFF;
+    background-position: center;
+    height: 100px;
+    text-align: center;
+    color: #FDF4FF;
+    font-family: monaco;
+}
+.navbar {
+    color:#FFFFFF;
+}
+.header {
+    color: #FBE7FF;
+    border-style: solid;
+    border-width: 2px; 
+    border-color:#FFABFB;
+    padding: 10px;
+    margin: auto 500px auto 500px;
+    font-size: 22px;
+}
+.center-container {
+    background-color: #5C66FF;
+    padding: 50px;
+}
+ul li {
+    margin: auto 400px auto 400px;
+    text-align: left;
+}
