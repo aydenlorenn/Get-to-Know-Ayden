@@ -6,8 +6,8 @@ nav {
     text-align: center;
     border: dashed;
     padding: 15px;
-    margin: 100px 300px 100px 300px;
-    background-color: #D230C3;
+    margin: 50px 0px 50px 0px;
+    background-color: #202020;
     text-transform: uppercase;
     display: block;
     
@@ -16,6 +16,7 @@ body {
     background-image: url(https://media.istockphoto.com/photos/abstract-exhibition-background-with-ultraviolet-neon-lights-glowing-picture-id1298834196?b=1&k=20&m=1298834196&s=612x612&w=0&h=PwS6iDxE9FOQIpuPXKck38QqCwY2g7q53LElZv3m7co=);
     background-color: #FFFFFF;
     background-position: center;
+    background-size: contain;
     height: 100px;
     text-align: center;
     color: #FDF4FF;
@@ -37,14 +38,19 @@ a:hover {
     border-width: 2px; 
     border-color:#FFABFB;
     padding: 10px;
-    margin: auto 500px auto 500px;
+    margin: auto 400px auto 400px;
     font-size: 22px;
 }
 ol li {
-    margin: auto 500px auto 500px;
+    margin: auto 450px;
     text-align: left;
 }
+h2 {
+    padding-top: 50px;
+}
 .center-container {
-    background-color: #5C66FF;
+    background-color: rgba(53, 53, 53, 0.9);
     padding: 50px;
+    margin: 0px 70px 20px 70px;
+    height: 400px;
 }
